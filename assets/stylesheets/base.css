@@ -969,7 +969,8 @@ header + main {
 main {
   overflow: auto;
   z-index: 2;
-  background: white;
+  background: url(./../../assets/images/usa-flag-old.png) repeat;
+  /* background: white; */
   position: relative;
 }
 main:nth-last-child(3) {
