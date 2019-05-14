@@ -4,4 +4,4 @@ module.exports = {
       "**/*.{png,svg,ico,jpg,mp3,css,html}"
     ],
     "swDest": "sw.js"
-  };
+  }; 
